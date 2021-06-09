@@ -70,7 +70,7 @@ h3{
     to   { opacity: 0; }
 }
 .headerbutton:hover {
-	background-color:#3b3737;
+	background-color:#2eb9db;
 }
 .headerbutton {
 	transition: background 0.4s ease-in-out;
